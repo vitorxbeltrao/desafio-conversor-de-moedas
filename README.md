@@ -138,7 +138,7 @@ Este projeto foi desenvolvido com fins de **aprendizado**, com foco em:
 -   Interação com usuário via terminal
 
 O escopo do projeto foi proposto pelos times da Alura e Oracle ONE para  
-o Challenge (desafio) de conclusão de curso, obrigatório para graduação.
+o Challenge (desafio) de conclusão de curso, obrigatório para a graduação.
 
 ------------------------------------------------------------------------
 
