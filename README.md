@@ -137,7 +137,8 @@ Este projeto foi desenvolvido com fins de **aprendizado**, com foco em:
 -   Uso do HttpClient do Java
 -   Interação com usuário via terminal
 
-O escopo do projeto foi proposto pelos times da Alura e Oracle ONE para o Challenge (desafio) de conclusão de curso, etapa obrigatória para a graduação.
+O escopo do projeto foi proposto pelos times da Alura e Oracle ONE para  
+o Challenge (desafio) de conclusão de curso, obrigatório para graduação.
 
 ------------------------------------------------------------------------
 
